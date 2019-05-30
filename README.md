@@ -1,5 +1,5 @@
-# react-todo-app
-A TODO app using react to frontend and node to backend
+# react-redux-todo-app
+A TODO app using react with redux to frontend and node to backend
 
 <h1>Install</h1>
 
